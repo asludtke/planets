@@ -4,6 +4,11 @@ Carbon is sequestered on it
 Matt Damon was a resident for a time
 We will eventually inhabit it and destroy it too
 Trump has plans for a tower or four
+<<<<<<< HEAD
 It is a tasty candy bar.
 Roman God of war
 
+=======
+
+end;
+>>>>>>> eeff3f19fe9379e674e8bfa5c9b68537caaf9cc5
